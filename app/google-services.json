@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1011971553988",
+    "project_id": "sosautomation-fbf80",
+    "storage_bucket": "sosautomation-fbf80.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011971553988:android:4b244cac83562d68b22791",
+        "android_client_info": {
+          "package_name": "com.example.sosautomationapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQdubERkSaTbl6Nr24LLPummwlCWRUWxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

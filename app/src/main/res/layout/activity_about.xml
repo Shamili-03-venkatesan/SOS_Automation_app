@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="24dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="About Smart SOS"
+            android:textColor="@color/black"
+            android:textSize="28sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:lineSpacingExtra="4dp"
+            android:text="Smart SOS is an Android emergency safety application designed to help users quickly alert their trusted contacts during critical situations. With a single tap, the app sends an SOS message along with the user’s live location to guardians and initiates an emergency call."
+            android:textColor="@color/welcome_text_header"
+            android:textSize="16sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="24dp"
+            android:text="🚨 Key Features"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:lineSpacingExtra="4dp"
+            android:text="• One-tap SOS alert\n• Sends emergency SMS automatically\n• Opens WhatsApp chat with guardian and pre-filled SOS message\n• Shares live Google Maps location\n• Auto call to emergency contact\n• Fast and easy to use interface"
+            android:textColor="@color/welcome_text_header"
+            android:textSize="16sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="24dp"
+            android:text="👥 Who Can Use This App"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:lineSpacingExtra="4dp"
+            android:text="• Women safety\n• Children &amp; students\n• Senior citizens\n• People traveling alone\n• Anyone needing emergency assistance"
+            android:textColor="@color/welcome_text_header"
+            android:textSize="16sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="24dp"
+            android:text="🔐 Privacy &amp; Security"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:lineSpacingExtra="4dp"
+            android:text="• No personal data is stored on servers\n• Messages are sent only to user-selected guardians and emergency number\n• Location is shared only during SOS activation\n• No background tracking"
+            android:textColor="@color/welcome_text_header"
+            android:textSize="16sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="24dp"
+            android:text="⚙️ Technologies Used"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:lineSpacingExtra="4dp"
+            android:text="• Android Studio\n• Kotlin\n• Google Location Services\n• Intent-based WhatsApp &amp; SMS integration"
+            android:textColor="@color/welcome_text_header"
+            android:textSize="16sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="24dp"
+            android:text="📖 How It Works"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="32dp"
+            android:lineSpacingExtra="4dp"
+            android:text="1. User presses the SOS button\n2. App fetches current location\n3. Emergency SMS is sent to guardians\n4. WhatsApp opens guardian chat with SOS message\n5. Emergency call is initiated"
+            android:textColor="@color/welcome_text_header"
+            android:textSize="16sp" />
+
+    </LinearLayout>
+</ScrollView>
