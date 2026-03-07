@@ -1,3 +1,4 @@
+<img width="1536" height="498" alt="image" src="https://github.com/user-attachments/assets/911d208c-ced2-499b-820b-f6ae90e01f53" />
 # 🚨 SOS Automation Android Application 🚨
 
 ## 📌 Overview
