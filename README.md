@@ -1,6 +1,6 @@
 <img width="1536" height="498" alt="image" src="https://github.com/user-attachments/assets/911d208c-ced2-499b-820b-f6ae90e01f53" />
 
-##🚨 SOS Automation Android Application 🚨
+🚨 SOS Automation Android Application 🚨
 
 * The **SOS Automation Android Application** is a personal safety application designed to help users quickly alert a trusted guardian during emergency situations.
 * When the **SOS feature** is activated, the application sends an alert containing the user's **name, guardian number, native place, real-time live location (Google Maps link), and a captured photo** 📸.
