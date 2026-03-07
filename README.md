@@ -35,9 +35,9 @@
 ## 📱 Screenshots
 <img width="622" height="696" alt="image" src="https://github.com/user-attachments/assets/70ff2a38-fb74-4777-9cde-ac13259033f3" />
 
-<img width="724" height="587" alt="image" src="https://github.com/user-attachments/assets/66584551-1bbc-4cbe-9a2e-1f04dc7d1255" />
+<img width="622" height="696" alt="image" src="https://github.com/user-attachments/assets/66584551-1bbc-4cbe-9a2e-1f04dc7d1255" />
 
-<img width="656" height="1272" alt="image" src="https://github.com/user-attachments/assets/d89bca9e-3264-4405-8ad0-a82acacbf1ad" />
+<img width="622" height="696" alt="image" src="https://github.com/user-attachments/assets/d89bca9e-3264-4405-8ad0-a82acacbf1ad" />
 
 
 
